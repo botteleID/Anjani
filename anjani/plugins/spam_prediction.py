@@ -1,5 +1,5 @@
 """Spam Prediction plugin"""
-# Copyright (C) 2020 - 2023  UserbotIndo Team, <https://github.com/userbotindo.git>
+# Copyright (C) 2020 - 2023  UserIndo Team, <https://github.com/Userindo.git>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -133,7 +133,7 @@ class SpamPrediction(plugin.Plugin):
     async def __load_model(self) -> None:
         self.log.info("Downloading spam prediction model!")
         async with self.bot.http.post(
-            "https://spamdetect.userbotindo.com",
+            "https://spamdetect.Userindo.com",
             headers={"Authorization": f"Bearer {token}"},
         ) as res:
             if res.status == 200:
