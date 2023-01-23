@@ -1,5 +1,5 @@
 """Anjani telegram utils"""
-# Copyright (C) 2020 - 2023  UserbotIndo Team, <https://github.com/userbotindo.git>
+# Copyright (C) 2020 - 2023  UserIndo Team, <https://github.com/Userindo.git>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -349,7 +349,7 @@ def get_text(
             if lang == "en":
                 return (
                     f"**NO LANGUAGE STRING FOR '{text_name}' in '{lang}'**\n"
-                    "__Please forward this to__ @userbotindo"
+                    "__Please forward this to__ @Userindo"
                 )
 
             bot.log.warning("NO LANGUAGE STRING FOR '%s' in '%s'", text_name, lang)
