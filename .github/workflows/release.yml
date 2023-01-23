@@ -13,13 +13,13 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Get release tag
-        if: startsWith(github.ref, 'refs/tags/') && github.repository == 'userbotindo/Anjani'
+        if: startsWith(github.ref, 'refs/tags/') && github.repository == 'botteleID/Anjani'
         run: |
           set -x
           echo "VERSION_TAG=${GITHUB_REF/refs\/tags\//}" >> $GITHUB_ENV
 
       - name: Create release
-        if: startsWith(github.ref, 'refs/tags/') && github.repository == 'userbotindo/Anjani'
+        if: startsWith(github.ref, 'refs/tags/') && github.repository == 'botteleID/Anjani'
         uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ env.VERSION_TAG }}
