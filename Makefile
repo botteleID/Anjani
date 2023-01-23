@@ -5,7 +5,7 @@ VERSION:=$(shell grep -m 1 version pyproject.toml | cut -d '"' -f 2)
 .PHONY: help test
 
 help:
-	@echo "Userbotindo - Anjani v$(VERSION)"
+	@echo "botteleID - Anjani v$(VERSION)"
 	@echo ""
 	@echo "Makefile commands:"
 	@echo "  fetch-origin: Fetch the latest changes from the origin"
