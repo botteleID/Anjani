@@ -4,8 +4,8 @@ start-pm: |
   Salam kenal, nama saya adalah **{}**. Dihadirkan untuk membantu Anda dalam mengelola grup dengan mudah dan menyenangkan.
   Silahkan kirim /help untuk melihat perintah yang tersedia.
 
-  Jika ada pertanyaan atau masalah, silahkan bergabung dan diskusikan di [Support Group](https://t.me/userbotindo)
-  Dikelola oleh: [Tim UserbotIndo](https://userbotindo.com/)
+  Jika ada pertanyaan atau masalah, silahkan bergabung dan diskusikan di [Support Group](https://t.me/Userindo)
+  Dikelola oleh: [Tim UserIndo](https://Userindo.com/)
   Tertarik menggunakan saya dalam mengelola grup Anda?
   Silahkan klik tombol di bawah, untuk menambahkan saya ke grup Anda.
 help-pm: |
@@ -19,7 +19,7 @@ help-pm: |
   × /setlang: Mengubah bahasa yang saya gunakan.
   × /donate: Menampilkan informasi tentang cara mendukung saya.
 
-  Pengaturan Anjani juga dapat dikonfigurasi di dashboard kami, [klik di sini](https://userbotindo.com/dashboard?ref=anjani) untuk membuka dashboard.
+  Pengaturan Anjani juga dapat dikonfigurasi di dashboard kami, [klik di sini](https://Userindo.com/dashboard?ref=anjani) untuk membuka dashboard.
 start-chat: Hai! Salam hangat, semoga hari Anda menyenangkan.
 help-chat: Hubungi saya secara personal untuk mendapatkan daftar perintah yang tersedia.
 add-to-group-button: Tambahkan Saya
@@ -28,7 +28,7 @@ dashboard-button: Dashboard
 help-chat-button: Bantuan
 back-button: Kembali
 donate: |
-  Anda dapat mendukung kami dengan berdonasi. Silahkan kunjungi [Situs Kami](https://userbotindo.com/donate?ref=anjani) untuk keterangan lebih lanjut.
+  Anda dapat mendukung kami dengan berdonasi. Silahkan kunjungi [Situs Kami](https://Userindo.com/donate?ref=anjani) untuk keterangan lebih lanjut.
 
   Tim dijalankan oleh sukarelawan, dan setiap bantuan kecil dapat membantu untuk meningkatkan layanan kami.
   Terima kasih atas dukungan Anda!
