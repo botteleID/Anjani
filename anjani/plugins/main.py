@@ -1,5 +1,5 @@
 """ Main Anjani plugins """
-# Copyright (C) 2020 - 2023  UserbotIndo Team, <https://github.com/userbotindo.git>
+# Copyright (C) 2020 - 2023  UserIndo Team, <https://github.com/Userindo.git>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -274,7 +274,7 @@ class Main(plugin.Plugin):
                     [
                         InlineKeyboardButton(
                             text=await self.text(chat.id, "dashboard-button"),
-                            url=f"https://userbotindo.com/dashboard",
+                            url=f"https://Userindo.com/dashboard",
                         )
                     ]
                 )
