@@ -1,5 +1,5 @@
 """miscellaneous bot commands"""
-# Copyright (C) 2020 - 2023  UserbotIndo Team, <https://github.com/userbotindo.git>
+# Copyright (C) 2020 - 2023  UserIndo Team, <https://github.com/Userindo.git>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -142,8 +142,8 @@ class Misc(plugin.Plugin):
     async def cmd_source(self, ctx: command.Context) -> None:
         """Send the bot source code"""
         await ctx.respond(
-            "[GitHub repo](https://github.com/userbotindo/Anjani)\n"
-            + "[Support](https://t.me/userbotindo)",
+            "[GitHub repo](https://github.com/Userindo/Anjani)\n"
+            + "[Support](https://t.me/Userindo)",
             disable_web_page_preview=True,
         )
 
