@@ -2,8 +2,8 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![DeepSource](https://deepsource.io/gh/userbotindo/Anjani.svg/?label=active+issues)](https://deepsource.io/gh/userbotindo/Anjani/?ref=repository-badge)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/23d2794692ad47a18849e06823aeaf6f)](https://www.codacy.com/gh/userbotindo/Anjani/dashboard?utm_source=github.com&utm_medium=referral&utm_content=userbotindo/Anjani&utm_campaign=Badge_Grade)
+[![DeepSource](https://deepsource.io/gh/botteleID/Anjani.svg/?label=active+issues)](https://deepsource.io/gh/botteleID/Anjani/?ref=repository-badge)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/23d2794692ad47a18849e06823aeaf6f)](https://www.codacy.com/gh/botteleID/Anjani/dashboard?utm_source=github.com&utm_medium=referral&utm_content=botteleID/Anjani&utm_campaign=Badge_Grade)
 
 Can be found on Telegram as [Anjani](https://t.me/dAnjani_bot).
 
@@ -24,16 +24,16 @@ Anjani is a modern, easy-to-develop, fully async Telegram group managing bot for
 -   Localization support.
 -   Class based plugin system.
 
-## [Documentation](https://userbotindo.com/anjani/docs/home)
+## [Documentation](https://botteleID.com/anjani/docs/home)
 
-## [Installing](https://userbotindo.com/anjani/docs/install)
+## [Installing](https://botteleID.com/anjani/docs/install)
 
 ## Plugin
 
-If you want to make your custom plugins, refer to [Anjani's Plugins Guide](https://userbotindo.com/anjani/docs/plugin/creating-your-own-plugin).
+If you want to make your custom plugins, refer to [Anjani's Plugins Guide](https://botteleID.com/anjani/docs/plugin/creating-your-own-plugin).
 
 ## Credits
 
 -   [Marie](https://github.com/PaulSonOfLars/tgbot)
 -   [Pyrobud](https://github.com/kdrag0n/pyrobud)
--   [All Contributors 👥](https://github.com/userbotindo/Anjani/graphs/contributors)
+-   [All Contributors 👥](https://github.com/botteleID/Anjani/graphs/contributors)
