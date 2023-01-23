@@ -1,5 +1,5 @@
 """ Canonical plugin for @dAnjani_bot """
-# Copyright (C) 2020 - 2023  UserbotIndo Team, <https://github.com/userbotindo.git>
+# Copyright (C) 2020 - 2023  UserIndo Team, <https://github.com/Userindo.git>
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -45,7 +45,7 @@ del env
 class Canonical(plugin.Plugin):
     """Helper Plugin
     This plugin is only available for @dAnjani_bot
-    to comunicate with https://userbotindo.com
+    to comunicate with https://Userindo.com
     """
 
     name: ClassVar[str] = "Canonical"
@@ -176,7 +176,7 @@ class Canonical(plugin.Plugin):
 
     @command.filters(filters.private)
     async def cmd_login(self, ctx: command.Context):
-        """Login to https://userbotindo.com"""
+        """Login to https://Userindo.com"""
         if not self.bot.config["login_url"]:
             return
 
@@ -189,7 +189,7 @@ class Canonical(plugin.Plugin):
                             "Login",
                             login_url=LoginUrl(
                                 url=self.bot.config["login_url"],
-                                forward_text="Login to https://userbotindo.com",
+                                forward_text="Login to https://Userindo.com",
                                 request_write_access="True",
                             ),
                         )
