@@ -8,9 +8,9 @@ authors = [
     "Adek Maulana <adekzmaulana@gmail.com>"
 ]
 readme = "README.md"
-homepage = "https://github.com/userbotindo/anjani#readme"
-repository = "https://github.com/userbotindo/anjani"
-documentation = "https://userbotindo.com/docs/home"
+homepage = "https://github.com/botteleID/anjani#readme"
+repository = "https://github.com/botteleID/anjani"
+documentation = "https://botteleID.com/docs/home"
 keywords = ["chatbot", "bot", "python", "telegram-bot", "pyrogram"]
 classifiers = [
     "Environment :: Console",
